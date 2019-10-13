@@ -1,0 +1,6 @@
+user-agent, NeteaseMusic*, NeteaseMusic
+user-agent, NeteaseMusic**, NeteaseMusic
+user-agent, 网易云音乐*, NeteaseMusic
+user-agent, 网易云音乐**, NeteaseMusic
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, NeteaseMusic
+user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**, NeteaseMusic
