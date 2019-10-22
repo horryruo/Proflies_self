@@ -68,5 +68,9 @@ host-keyword, tiny, 自添加
 host-keyword, ytoo, 自添加
 host, www-chromeba-net.cdn.ampproject.org, 自添加
 host, bigrain.me, 自添加
-
+host-keyword, atlassian, 自添加
+host, rcdfrd.gitbook.io, 自添加
+host, ads.wakamoment.tk, reject
+host-keyword, juicyads, reject
+host, book.wankouzi.com, direct
 
