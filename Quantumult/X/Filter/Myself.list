@@ -73,4 +73,8 @@ host, rcdfrd.gitbook.io, 自添加
 host, ads.wakamoment.tk, reject
 host-keyword, juicyads, reject
 host, book.wankouzi.com, direct
-
+host,pixel.quantserve.com,自添加
+host,xslt.alexa.com,自添加
+host-keyword, nicegram, 自添加
+host-keyword, slack, 自添加
+host-keyword, zoho, 自添加
