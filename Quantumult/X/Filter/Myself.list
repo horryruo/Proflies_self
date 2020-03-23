@@ -11,10 +11,15 @@ host-keyword, zhaoze, 自添加
 host, bbs.fallenark.com, 自添加
 host-keyword, tucao, 自添加
 host, www.tucao.one, 自添加
-host, aadcdn.msauth.net, OneDrive
-host, login.live.com, OneDrive
-host, login.live.com, OneDrive
-host-keyword, microsoft, OneDrive
+host, aadcdn.msauth.net, Microsoft
+host-keyword,microsoft,Microsoft
+host-keyword,onedrive,Microsoft
+host-suffix,azure.com,Microsoft
+host-suffix,live.com,Microsoft
+host-suffix,live.net,Microsoft
+host-suffix,office.com,Microsoft
+host-suffix,office.net,Microsoft
+host-suffix,skype.com,Microsoft
 host-keyword, japonx, 自添加
 host, www.japonx.net, 自添加
 host, www.luochat.com, 自添加
@@ -87,6 +92,10 @@ host-keyword, herokuapp, 自添加
 host-keyword, ctfassets, 自添加
 host-keyword, ifttt, 自添加
 host-keyword, steam, 自添加
+host-suffix,fanatical.com, 自添加
+host-suffix,humblebundle.com, 自添加
+host-keyword, epic, 自添加
+host-keyword,ubisoft, 自添加
 host-keyword, pximg, 自添加
 host-keyword, pixiv, 自添加
 host-keyword,alipay,direct
