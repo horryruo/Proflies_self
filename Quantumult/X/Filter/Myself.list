@@ -11,6 +11,7 @@ host-keyword, zhaoze, 自添加
 host, bbs.fallenark.com, 自添加
 host-keyword, tucao, 自添加
 host, www.tucao.one, 自添加
+USER-AGENT,OneDrive*,Microsoft
 host, aadcdn.msauth.net, Microsoft
 host-keyword,microsoft,Microsoft
 host-keyword,onedrive,Microsoft
