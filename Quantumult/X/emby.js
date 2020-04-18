@@ -6,7 +6,7 @@ Surge & QX MITM = mb3admin.com
 */
 
 let url = $request.url;
-var obj = JSON.parse($response.body);
+let obj = JSON.parse($response.body);
 
 let validateDevice = '/admin/service/registration/validateDevice/';
 let validate = '/admin/service/registration/validate/';
