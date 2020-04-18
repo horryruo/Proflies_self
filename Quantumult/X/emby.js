@@ -15,7 +15,7 @@ let getStatus = '/admin/service/registration/getStatus/';
 
 if (url.indexOf(validateDevice) != -1) {
    obj= {
-	cacheExpirationDays = 365;
+	cacheExpirationDays = "365";
 	message = "Device Valid";
 	resultCode = "GOOD";
 	};	
@@ -23,7 +23,7 @@ if (url.indexOf(validateDevice) != -1) {
 else if (url.indexOf(validate) != -1) {
     obj= {
 	featId = "";
-	registered = true;
+	registered = "true";
         expDate = "2099-01-01";
         key = "";
 	 };
