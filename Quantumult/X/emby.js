@@ -22,13 +22,13 @@ if (url.indexOf(validateDevice) != -1) {
 else if (url.indexOf(validate) != -1) {
 	featId = "";
 	registered = true;
-  expDate = "2099-01-01";
-  key = "";
+        expDate = "2099-01-01";
+        key = "";
 }
 else if (url.indexOf(getStatus) != -1) {
 	deviceStatus = "";
-  planType = "";
-  subscriptions = "{}";
+        planType = "";
+        subscriptions = "{}";
 } 
 
 
