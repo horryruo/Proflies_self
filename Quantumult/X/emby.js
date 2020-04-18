@@ -14,20 +14,23 @@ let getStatus = '/admin/service/registration/getStatus/';
 
 
 if (url.indexOf(validateDevice) != -1) {
-   obj= {cacheExpirationDays = 365;
+   obj= {
+	cacheExpirationDays = 365;
 	message = "Device Valid";
 	resultCode = "GOOD";
 	};	
 }
 else if (url.indexOf(validate) != -1) {
-    obj= {featId = "";
+    obj= {
+	featId = "";
 	registered = true;
         expDate = "2099-01-01";
         key = "";
 	 };
 }
 else if (url.indexOf(getStatus) != -1) {
-    obj= {deviceStatus = "";
+    obj= {
+	deviceStatus = "";
         planType = "";
         subscriptions = "{}";
 	 };
