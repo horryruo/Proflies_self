@@ -1,7 +1,7 @@
 var obj = {
   featId: '',
   registered: true,
-  expDate: '2333-10-01',
+  expDate: '2099-01-01',
   key: ''
 };
 
