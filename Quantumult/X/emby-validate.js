@@ -6,5 +6,12 @@ var obj = {
 };
 
 var str = JSON.stringify(obj);
+const myStatus = "HTTP/1.1 200";
+const myData = str;
 
-$done({ body: str, status: 200 });
+const myResponse = {
+    status: myStatus,
+    body: myData 
+};
+
+$done(myResponse)
