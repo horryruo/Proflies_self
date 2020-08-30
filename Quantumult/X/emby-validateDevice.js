@@ -1,5 +1,5 @@
 var obj = {
-  cacheExpirationDays: 233,
+  cacheExpirationDays: 365,
   message: 'Device Valid',
   "resultCode": 'GOOD'
 };
