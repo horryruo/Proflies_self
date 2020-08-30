@@ -3,9 +3,9 @@ var foo = {
 }
 
 var obj = {
-    deviceStatus:  '0',
-    planType:      'Lifetime',
-    subscriptions:  foo
+    deviceStatus:  '',
+    planType:      '',
+    subscriptions:  {}
   };
 
 var str = JSON.stringify(obj)
