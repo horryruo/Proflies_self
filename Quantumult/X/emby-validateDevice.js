@@ -6,5 +6,5 @@ var obj = {
 
 var str = JSON.stringify(obj);
 
-$done({ body: str });
+$done({ body: str, status: 200 });
 
